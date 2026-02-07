@@ -1,3 +1,4 @@
+/*The changes in the C program related to strotok function usage which extracts the macs accordingly, mac_split() will split the macs and act as call by reference.*/
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
